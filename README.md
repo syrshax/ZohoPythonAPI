@@ -22,6 +22,7 @@ pip install fastapi uvicorn requests python-dotenv
 ``` bash
 ZOHO_CLIENT_ID=your_client_id
 ZOHO_CLIENT_SECRET=your_client_secret
+ZOHO_REFRESH_TOKEN=your_refresh_token
 ZOHO_API_DOMAIN=https://www.zohoapis.com
 ZOHO_API_REFRESH=https://accounts.zoho.com
 ```
